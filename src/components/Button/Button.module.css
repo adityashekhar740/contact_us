@@ -1,0 +1,31 @@
+.pri_btn{
+    padding: 18px 10px;
+    background-color: black;
+    color: white;
+    min-width: 250px;
+    height: 38px;
+    border-radius: 5px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 1px;
+    justify-content: center;
+    cursor: pointer;
+}
+.sec_btn {
+    padding: 18px 10px;
+    background-color: white;
+    border: 1px black solid;
+    color: black;
+    height: 38px;
+    min-width: 220px;
+    border-radius: 5px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 500;
+    justify-content: center;
+    width: 100%;
+    cursor: pointer;
+}
